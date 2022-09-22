@@ -6,6 +6,7 @@ import "../libraries/LibERC721.sol";
 
 
 contract NFT is ERC721URIStorage {
+    
     using Counters for Counters.Counter;
 
 
