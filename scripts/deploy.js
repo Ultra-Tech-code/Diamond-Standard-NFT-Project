@@ -65,6 +65,7 @@ async function deployDiamond () {
   console.log('Completed diamond cut')
   return diamond.address
 }
+//DEPLOYED CONTRACT ADDRESS: 0x99D299148B5574A3317FE2b0A3f728E124aC7371
 
 // We recommend this pattern to be able to use async/await everywhere
 // and properly handle errors.
